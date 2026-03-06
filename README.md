@@ -67,8 +67,8 @@ const akuza = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=94a3b8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akuzadeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akuzadeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=94a3b8" height="165" />
 </div>
 
 <div align="center">
@@ -82,7 +82,7 @@ const akuza = {
 
 <div align="center">
   <p>I'm open to freelance work, collaborations, or just a good tech conversation.</p>
-  <a href="mailto:your@email.com">
+  <a href="akuzadeveloper@email.com">
     <img src="https://img.shields.io/badge/Send%20me%20an%20email-3b82f6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
